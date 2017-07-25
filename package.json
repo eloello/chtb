@@ -1,9 +1,9 @@
 {
-  "name": "@paulallen87/chaturbate-overlay-app",
+  "name": "@eloello/chtb",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulallen87/chaturbate-overlay-app.git"
+    "url": "git+https://github.com/eloello/chtb.git"
   },
   "keywords": [
     "chaturbate"
